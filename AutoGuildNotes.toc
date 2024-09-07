@@ -1,0 +1,6 @@
+## Interface: 110002
+## Title: MyAddon
+## Notes: Addon to automaticaly change guildmates notes
+## Author: Matthas
+
+AutoGuildNotes.Lua
